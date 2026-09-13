@@ -30,7 +30,6 @@ I want to consider what it means for a designer to work with a computational med
 
 I am not learning programming to compete with AI at writing code. I want to understand computational systems well enough to specify, question, judge, and modify what is created with them.
 
-# Why Are We Here?
 
 ## My Starting Point
 
@@ -54,13 +53,17 @@ This is why AI changes, rather than removes, my reason for learning programming.
 
 ## Code as a Creative Medium
 
-Dylan Beattie's *The Art of Code* made me think about code not only as a technical tool, but also as a creative and expressive medium.
+Dylan Beattie's *The Art of Code* also changed the way I think about programming. His examples show that code can be more than a practical tool for making software work; it can also become a creative and expressive medium. This idea feels particularly relevant to me as a designer.
 
-I want to consider what it means for a designer to work with a computational medium without understanding how it behaves.
+In design, understanding a material is not only about knowing how to manufacture something with it. Its properties and limitations also influence what a designer can imagine and create. I am beginning to see programming in a similar way. If computation is becoming part of the material I design with, relying entirely on AI to manipulate that material would leave part of my own design process inaccessible to me.
+
+This does not mean that I need to reject AI or become a programmer who writes everything from scratch. I would rather treat AI as a collaborator that can help me work with code more efficiently. But learning programming gives me a better understanding of the medium behind its outputs. That understanding can help me recognise possibilities, question limitations, and make more deliberate creative decisions instead of simply accepting whatever the system produces.
 
 ## Why I Am Here
 
-I am not learning programming to compete with AI at writing code. I want to understand computational systems well enough to specify, question, judge, and modify what is created with them.
+I do not know how much of the code I will need to write myself in the future. As AI continues to improve, perhaps less and less. But this does not make learning programming meaningless to me. It changes what I want to learn from it.
+
+I am not here to compete with AI at producing code faster. I am here because computation is becoming part of the material through which I design. I want to understand it well enough to specify what I mean, recognise when something is wrong, explore possibilities I might otherwise miss, and make my own decisions about the experiences I create. AI can help me produce an outcome, but I still want to understand and take responsibility for the choices behind it. For me, that is what survives even if the way we write code changes beyond recognition.
 
 
 ## References
