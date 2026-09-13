@@ -1,16 +1,16 @@
 # Why Are We Here?
 
-# Why Are We Here?
-
 ## My Starting Point
 
 I am a designer rather than a programmer. With AI increasingly able to generate working code from natural language, I want to question what learning programming still means for my own design practice.
 
-## From Describing to Specifying
+## When I Knew What I Wanted, But Could Not Build It
 
-One experience I want to reflect on is my undergraduate graduation project: an interactive music mat designed for visually impaired users.
+During my undergraduate studies, I worked on interaction design projects for communities that are often overlooked by mainstream digital innovation, including older adults and people with visual impairments. These experiences made inclusive design an important part of my practice.
 
-I wanted to use Arduino and TouchDesigner to connect footsteps, body movements, and different musical sounds. I knew what kind of interaction and experience I wanted to create, but my limited programming experience made it difficult to independently translate these ideas into a fully working system.
+For my graduation project, I designed an interactive music mat for visually impaired users. Instead of focusing only on compensating for visual impairment, I wanted to create an enjoyable experience where visually impaired and sighted users could play together through music and body movement. My aim was to use Arduino and TouchDesigner to build a full-scale functional prototype. Stepping on different keys would trigger different piano notes, while movements such as clapping or tapping different parts of the body would trigger instrumental sounds. I also used TouchDesigner to connect these interactions with dynamic visual patterns, so that one movement could produce both sound and visual feedback.
+
+I knew quite precisely what experience I wanted to design, but I did not know how to specify it computationally. Because I was unfamiliar with programming and the rules behind how these systems worked, it was difficult to independently turn my design intentions into a reliable working experience.
 
 ## What Changes When AI Can Write the Code?
 
